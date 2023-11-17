@@ -10,18 +10,18 @@ This repository consist of code created alongside resources for the creation of 
 
 The data used for the training and testing of the predictive modelling is contained in two CSV files each containing past data on the load shortfall across five cities namely Madrid, Valencia, Bilbao, Seville and lastly Barcelona on a three hourly basis from 2015-2017 with the following weather conditions:
 
-*wind speed
-*wind degree
-*rain 1h
-*rain 3h
-*humidity
-*clouds all
-*pressure
-*snow 3h
-*weather id
-*temp max
-*temp min
-*temp
+- wind speed
+- wind degree
+- rain 1h
+- rain 3h
+- humidity
+- clouds all
+- pressure
+- snow 3h
+- weather id
+- temp max
+- temp min
+- temp
 
 _Note: Some cities will not have features of certain weather conditions._
 
@@ -31,12 +31,12 @@ A starter notebook is attached where the feature enginerring is performed to han
 
 The starter notebook attached runs on the following dependencies:
 
-*Python (version 3.x)
-*NumPy
-*Pandas
-*Scikit-learn
-*Matplotlib
-*Seaborn
+- Python (version 3.x)
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
 ## Model Building
 
